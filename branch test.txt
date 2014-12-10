@@ -1,15 +1,6 @@
-<<<<<<< HEAD
 
-=======
->>>>>>> test
 test modified
 
 
-
-<<<<<<< HEAD
-
-
 master added
-=======
 gsgss
->>>>>>> test
