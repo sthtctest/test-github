@@ -1,8 +1,16 @@
 
+<<<<<<< HEAD
 test added by master aaaa
+=======
+test added more more
+>>>>>>> test
 
 master test modified
 gsgss
 
 
+<<<<<<< HEAD
 add more
+=======
+sdsf
+>>>>>>> test
